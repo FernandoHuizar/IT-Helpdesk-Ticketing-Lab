@@ -11,7 +11,8 @@
 *Detailed resolution notes for high-priority password reset scenario*
 
 ### Sample Ticket - Complex Resolution
-
+<img width="1903" height="809" alt="image" src="https://github.com/user-attachments/assets/9696ef83-1605-4054-8eb1-0ac95756980c" />
+<img width="1127" height="705" alt="image" src="https://github.com/user-attachments/assets/f25983cd-f652-44da-bb80-541602f4afdc" />
 *Multi-step troubleshooting with manager approval workflow*
 
 ### Knowledge Base Articles
