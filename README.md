@@ -19,5 +19,5 @@
 *Self-service documentation reducing ticket volume by 20%*
 
 ### Response Macros
-<img width="1825" height="553" alt="image" src="https://github.com/user-attachments/assets/e83b5533-6be0-4d2b-95c9-f0b7be4c536e" />)
+<img width="1825" height="553" alt="image" src="https://github.com/user-attachments/assets/e83b5533-6be0-4d2b-95c9-f0b7be4c536e" />
 *Efficiency templates reducing response time by 40%*
