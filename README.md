@@ -1,4 +1,4 @@
-<img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/985ba529-75be-4624-adc2-48e671b6f0d9" />## 📸 Screenshots
+## 📸 Screenshots
 
 ### Ticket Dashboard
 ![Ticket Dashboard](<img width="1899" height="788" alt="image" src="https://github.com/user-attachments/assets/748888da-51ee-41c5-b4d9-7c8e79b2bc85" />)
